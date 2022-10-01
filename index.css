@@ -1,0 +1,24 @@
+.image_full_screen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.image_smaller {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.border {
+  width: 100%;
+}
+
+.carousel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
